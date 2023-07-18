@@ -29,7 +29,7 @@ This uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework
    $ cp .env.example .env
    ```
 
-7. Add your [API key](https://beta.openai.com/account/api-keys and GOOGLE API Key (for STT and TTS) to the newly created `.env` file
+7. Add your [API key](https://beta.openai.com/account/api-keys to the newly created `.env` file
 
 8. Run the app
 
